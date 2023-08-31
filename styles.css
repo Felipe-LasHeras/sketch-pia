@@ -1,0 +1,9 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flecha{
+  font-size: 10px;
+  size: 20px;
+}
